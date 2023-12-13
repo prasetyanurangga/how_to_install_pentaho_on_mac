@@ -1,1 +1,1 @@
-# how_to_install_pentaho_on_mac
+# How to install Pentaho on Mac
