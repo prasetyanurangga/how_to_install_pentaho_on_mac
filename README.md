@@ -13,7 +13,7 @@
 * Ekstrak hasil unduhan
 * Buka Terminal
 * Masuk ke direktori hasil Ekstrak (default nama direktori adalah data-integration)
-* Jalakan pentaho dengan menggunakan script ` ./spoon.shh `
+* Jalakan pentaho dengan menggunakan script ` ./spoon.sh `
 
 ## Step 3 : Jika Muncul Error 1
 
